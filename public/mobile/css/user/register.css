@@ -1,0 +1,31 @@
+.lt_view {
+  height: 100%;
+  background-color: #fff;
+}
+.lt_form {
+  padding: 10px;
+}
+.lt_form form:after {
+  display: none;
+}
+.lt_form form .mui-input-row {
+  margin: 10px 0;
+}
+.lt_form form .mui-input-row:after {
+  display: none;
+}
+.lt_form form .mui-input-row input {
+  border: 1px solid #ccc;
+}
+.lt_form form .mui-input-row .vCode {
+  width: 60%;
+}
+.lt_form form .mui-input-row .getCodeBtn {
+  width: 30%;
+  padding: 10px 1px;
+  height: 100%;
+}
+.lt_form form .mui-button-row button {
+  width: 100%;
+}
+/*# sourceMappingURL=./register.css.map */
